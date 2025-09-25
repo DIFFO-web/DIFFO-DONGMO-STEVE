@@ -34,7 +34,7 @@ Objectif : Identifier les variables qui impactent la popularité des vidéos.
 🔹 Détection de fraudes bancaires  
 Objectif : Repérer les anomalies dans les transactions.
 ➡ Techniques : arbres de décision, SVM, normalisation, modèles supervisés.
-
+[voir le notebook](https://github.com/DIFFO-web/projet-analyse-de-donn-es/blob/main/problematique1_Banque.ipynb)
 🔹 Segmentation de clients marketing  
 Objectif : Déterminer les profils les plus rentables selon leurs interactions avec les campagnes.  
 ➡ Techniques : clustering (K-Means), PCA, visualisation.
