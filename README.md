@@ -29,40 +29,39 @@ Je m’intéresse particulièrement à l’utilisation des données pour résoud
  - Comment analyser les transactions Bancaires pour identifier les schemas de fraude
    
 **➡ Objectifs**
-    - Comprendre la structure des données et leur distribution.
-    - Identifier les variables importantes et les relations entre elles.
-    - Produire des visualisations claires pour présenter les résultats.*
+- Comprendre la structure des données et leur distribution.
+- Identifier les variables importantes et les relations entre elles.
+- Produire des visualisations claires pour présenter les résultats.*
     
 #### ➡ [voir le notebook](https://github.com/DIFFO-web/projet-analyse-de-donn-es/blob/main/problematique1_Banque.ipynb)
 --
-
-➡ problematiques Marketing(A/B Testing) 1
-    🔹   Quelle version d’une landing page convertit le mieux les
- utilisateurs ? 
-➡ Objectifs 
-    -    Mettre en place une expérimentation contrôlée pour comparer deux
-    groupes
-    -    Analyser les résultats avec des statistiques pour choisir la version gagnante
-➡ [voir le notebook]()
--------
-➡ problematiques Marketing(A/B Testing) 1
-    🔹   Quels sont les segments de clients les plus rentables en
- fonction de leurs interactions avec des campagnes ?
-➡ Objectifs 
-    -   Comprendre la structure des données et leur distribution.
-    -   Identifier les variables importantes et les relations entre elles.
-    -   Produire des visualisations claires pour présenter les résultats.
-➡ [voir le notebook]()
-
----
-
-🎯 Objectif
-
-Je cherche à renforcer mes compétences en Data Science via des projets concrets, des collaborations open source et des opportunités d’échanges internationaux. 
+**➡ problematiques Marketing(A/B Testing) 1**
+ - Quelle version d’une landing page convertit le mieux les utilisateurs ? 
+**➡ Objectifs**
+- Mettre en place une expérimentation contrôlée pour comparer deux
+    groupes.
+- Analyser les résultats avec des statistiques pour choisir la version gagnante
+  
+####➡ [voir le notebook]()
+--
+**➡ problematiques Marketing 2**
+- Quels sont les segments de clients les plus rentables en fonction de leurs interactions avec des campagnes ?
+**➡ Objectifs** 
+- Comprendre la structure des données et leur distribution.
+- Identifier les variables importantes et les relations entre elles.
+- Produire des visualisations claires pour présenter les résultats.
+  
+####➡ [voir le notebook]()
 
 ---
 
-📫 Me contacter
+### 🎯 Objectif
+
+*Je cherche à renforcer mes compétences en Data Science via des projets concrets, des collaborations open source et des opportunités d’échanges internationaux.* 
+
+---
+
+### 📫 Me contacter
 
 - Email : stevediffo4@gmail.com  
 - tel : +237691421270 
