@@ -1,6 +1,4 @@
 
-## Diffo Dongmo Steve Meranda
-
 ### Étudiant en Génie Informatique, option Data Science
 ### École Nationale Supérieure Polytechnique de Yaoundé (ENSPY) – Cameroun   
 
@@ -8,7 +6,7 @@
 
 ### 👨‍💻 À propos de moi
 
-*je suis Passionné par la science des données et l’intelligence artificielle, je suis actuellement étudiant en Master 1 Data Science au sein du département de Génie Informatique de l’École Nationale Supérieure Polytechnique de Yaoundé (ENSPY).Avec une solide base en programmation, modélisation statistique et analyse de données.  
+*je suis Passionné par la science des données et l’intelligence artificielle, et actuellement étudiant en Master 1 Data Science au sein du département de Génie Informatique de l’École Nationale Supérieure Polytechnique de Yaoundé (ENSPY).Avec une solide base en programmation, modélisation statistique et analyse de données.  
 Je m’intéresse particulièrement à l’utilisation des données pour résoudre des problèmes réels, prendre des décisions intelligentes et automatiser des processus.*
 
 ---
@@ -25,30 +23,30 @@ Je m’intéresse particulièrement à l’utilisation des données pour résoud
 ---
 
 ### 📊 Projets réalisés
-**➡ Problematique banque 1**
+**Problematique banque 1**
  - Comment analyser les transactions Bancaires pour identifier les schemas de fraude
    
-**➡ Objectifs**
+**Objectifs**
 - Comprendre la structure des données et leur distribution.
 - Identifier les variables importantes et les relations entre elles.
 - Produire des visualisations claires pour présenter les résultats.
     
 #### ➡ [voir le notebook](https://github.com/DIFFO-web/projet-analyse-de-donn-es/blob/main/problematique1_Banque.ipynb)
 
-**➡ problematiques Marketing(A/B Testing) 1**
+**problematiques Marketing(A/B Testing) 1**
  - Quelle version d’une landing page convertit le mieux les utilisateurs ?
    
-**➡ Objectifs**
+**Objectifs**
 - Mettre en place une expérimentation contrôlée pour comparer deux
     groupes.
 - Analyser les résultats avec des statistiques pour choisir la version gagnante
   
 #### ➡ [voir le notebook]()
 
-**➡ problematiques Marketing 2**
+**problematiques Marketing 2**
 - Quels sont les segments de clients les plus rentables en fonction de leurs interactions avec des campagnes ?
   
-**➡ Objectifs** 
+**Objectifs** 
 - Comprendre la structure des données et leur distribution.
 - Identifier les variables importantes et les relations entre elles.
 - Produire des visualisations claires pour présenter les résultats.
