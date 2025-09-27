@@ -1,19 +1,19 @@
 
-##💼 Diffo Dongmo Steve Meranda
+##Diffo Dongmo Steve Meranda##
 
-###🎓 Étudiant en Génie Informatique, option Data Science  
-###📍 École Nationale Supérieure Polytechnique de Yaoundé (ENSPY) – Cameroun   
+###Étudiant en Génie Informatique, option Data Science### 
+###École Nationale Supérieure Polytechnique de Yaoundé (ENSPY) – Cameroun###   
 
 ---
 
-###👨‍💻 À propos de moi
+###👨‍💻 À propos de moi###
 
 *je suis Passionné par la science des données et l’intelligence artificielle, je suis actuellement étudiant en Master 1 Data Science au sein du département de Génie Informatique de l’École Nationale Supérieure Polytechnique de Yaoundé (ENSPY).Avec une solide base en programmation, modélisation statistique et analyse de données.  
 Je m’intéresse particulièrement à l’utilisation des données pour résoudre des problèmes réels, prendre des décisions intelligentes et automatiser des processus.*
 
 ---
 
-###🚀 Compétences principales
+###Compétences principales###
 
 - Python (pandas, scikit-learn, matplotlib, seaborn)
 - SQL
@@ -26,16 +26,13 @@ Je m’intéresse particulièrement à l’utilisation des données pour résoud
 
 ###📊 Projets réalisés
 **➡ Problematique banque 1**
-
-    🔹  Comment analyser les transactions Bancaires pour identifier les schemas de fraude
+    *🔹  Comment analyser les transactions Bancaires pour identifier les schemas de fraude*
 **➡ Objectifs**
-
-    -   Comprendre la structure des données et leur distribution.
+    -  *Comprendre la structure des données et leur distribution.
     -   Identifier les variables importantes et les relations entre elles.
-    -   Produire des visualisations claires pour présenter les résultats.
+    -   Produire des visualisations claires pour présenter les résultats.*
     
-####➡ [voir le notebook](https://github.com/DIFFO-web/projet-analyse-de-donn-es/blob/main/problematique1_Banque.ipynb)
-
+####➡ [voir le notebook](https://github.com/DIFFO-web/projet-analyse-de-donn-es/blob/main/problematique1_Banque.ipynb)####
 --
 
 ➡ problematiques Marketing(A/B Testing) 1
