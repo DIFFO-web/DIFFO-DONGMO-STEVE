@@ -27,10 +27,11 @@ Je m’intéresse particulièrement à l’utilisation des données pour résoud
 ### 📊 Projets réalisés
 **➡ Problematique banque 1**
  - Comment analyser les transactions Bancaires pour identifier les schemas de fraude
+   
 **➡ Objectifs**
-    -  *Comprendre la structure des données et leur distribution.
-    -   Identifier les variables importantes et les relations entre elles.
-    -   Produire des visualisations claires pour présenter les résultats.*
+    - Comprendre la structure des données et leur distribution.
+    - Identifier les variables importantes et les relations entre elles.
+    - Produire des visualisations claires pour présenter les résultats.*
     
 #### ➡ [voir le notebook](https://github.com/DIFFO-web/projet-analyse-de-donn-es/blob/main/problematique1_Banque.ipynb)
 --
