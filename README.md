@@ -41,7 +41,7 @@ Je m’intéresse particulièrement à l’utilisation des données pour résoud
     groupes.
 - Analyser les résultats avec des statistiques pour choisir la version gagnante
   
-#### ➡ [voir le notebook]()
+#### ➡ [voir le notebook](https://github.com/DIFFO-web/projet-analyse-de-donn-es/blob/main/AB_testing.ipynb)
 
 **problematiques Marketing 2**
 - Quels sont les segments de clients les plus rentables en fonction de leurs interactions avec des campagnes ?
