@@ -51,7 +51,7 @@ Je m’intéresse particulièrement à l’utilisation des données pour résoud
 - Identifier les variables importantes et les relations entre elles.
 - Produire des visualisations claires pour présenter les résultats.
   
-#### ➡ [voir le notebook]()
+#### ➡ [voir le notebook](https://github.com/DIFFO-web/projet-analyse-de-donn-es/blob/main/problematique2_Marketing.ipynb)
 
 **problematiques Marketing 3**
 - Comment segmenter les clients en fonction de leurs comportements d'achat ?
